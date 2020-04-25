@@ -1,0 +1,15 @@
+#mainNav .navbar-brand {
+  background-image: url("../../assets/img/Keeb&Code.svg");
+  background-repeat: no-repeat;
+  width: 120px;
+  height: 40px;
+}
+
+@media (min-width: 992px) {
+  #mainNav .navbar-brand {
+    width: 150px;
+    background-image: url("../../assets/img/Keeb&Code_white.svg");
+    height: 50px;
+  }
+}
+
